@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="UTF-8" />
+
+    <title>Amy Grundleger</title>
+
+
+
+</head>
+
+
+
+<body>
+
+    <header id="header">
+
+        <h1>Amy Grundleger</h1>
+
+        <address>
+
+          <p>126 Dunvegan Rd, Toronto, Canada M4V2R3</p>
+
+          <p>7867812762</p>
+
+          <p><a href="mailto:amy.grundleger@gmail.com">amy.grundleger@gmail.com</a></p>
+
+        </address>
+
+
+
+    </header>
+
+    <nav>
+
+        <ul>
+
+            <li><a href="#education">Education</a></li>
+
+            <li><a href="#computer_skills">Computer Skills</a></li>
+
+            <li><a href="#writing_experience">Experience</a></li>
+
+            <li><a href="#work_experience">Work Experience</a></li>
+
+            <li><a href="#campus_leadership">Campus Leadership</a></li>
+
+            <li><a href="#honors">Honors and Achievements</a></li>
+
+            <li><a href="#activities">Activities</a></li>
+
+
+
+        </ul>
+
+    </nav>
+
+    <main>
+
+
+
+
+
+        <section id="education">
+
+            <h2>Education</h2>
+
+            <article>
+
+                <h3>University of Miami</h3>
+
+                <p>Coral Gables, FL</p>
+
+                <p>Graduating May 2019</p>
+
+                <ul>
+
+                    <li>Majors: Journalism(<abbr title="Bachelor of Science">B.S.</abbr>)</li>
+
+                    <li>Minor: Sports Administration</li>
+
+
+
+                </ul>
+
+            </article>
+
+        </section>
+
+        <section id="writing_experience">
+
+            <h2>Experience</h2>
+
+            <article>
+
+                <h3> <a href="http://umiami.readtherival.com/super-bowl-party-survival-guide/">The Rival at the University of Miami</a></h3>
+
+
+
+                <p>2016-2017</p>
+
+                <ul>
+
+                    <li><em>Sports Writer</em></li>
+
+
+
+                    <li>Wrote and edited multiple sports articles for the student-run website, while contributing ideas to other writers <i> The Rival </i> </li>
+
+                    <li>covered <a href="http://umiami.readtherival.com/super-bowl-party-survival-guide/">Pro Football and Basketball and University of Miami Football and Basketball</a></li>
+
+                </ul>
+
+
+                <h3><a href="http://www.themiamihurricane.com/">The Miami Hurricane</a></h3>
+
+
+
+                <p>2016-2017</p>
+
+                <ul>
+
+                    <li><em>Sports Writer</em></li>
+
+
+
+                    <li> Wrote sports articles on <a href="http://www.themiamihurricane.com/2016/09/28/plans-for-new-facility-brings-excitement-to-the-u/"> Miami Football</a></li>
+
+                    <li> Brainstormed and created ideas with other writers and editors</li>
+
+                    <li> Interviewed athletes and students appropriately and found good quotable infromation from the questions I asked </li>
+
+                </ul>
+
+            </article>
+
+        </section>
+
+
+
+        <section id="work_experience">
+
+            <h2>Work Experience</h2>
+
+            <h3>EVRYTHNG</h3>
+
+            <article>
+
+                <p>New York, New York</p>
+
+                <p>Summer 2017</p>
+
+
+
+                <ul>
+
+                    <li><em>Writing and Marketing Intern</em>
+
+                        <ul>
+
+                            <li>Managed social Media accounts, wrote and edited the articles on their websites, contributed creative ideas to team meetings.</li>
+
+                            <li> Researched new clients and sent out weekly updates on the industry to keep the company informed. </li>
+
+                        </ul>
+
+                    </li>
+
+                </ul>
+
+            </article>
+
+            <h3>Upper Canada College Summer Camps</h3>
+
+            <article>
+
+            <p>Toronto, Canada</p>
+
+            <p>Summer 2014 - Summer 2016</p>
+
+            <ul>
+
+                <li><em>Tennis Camp Consellor</em>
+
+                    <ul>
+
+                        <li>Taught kids basic tennis stokes and games, used creativity and problem solving skills on a daily basis</li>
+
+                        <li> Learnt teamwork skills and how to think on your feet with unpredictable kids </li>
+
+                    </ul>
+
+                </li>
+
+            </ul>
+
+
+
+            </article>
+
+        </section>
+
+        <section id="campus_leadership">
+
+            <h2>Campus Leadership</h2>
+
+            <article>
+
+                <h3>Delta Gamma Beta Tau</h3>
+
+                <ul>
+
+                    <li><em>Director of Internal PR</em> 2016 - 2017
+
+
+
+                        <li>Write monthly newsletters to update alumni, parents, and Delta Gamma Headquarters on the happenings of our chapters and kept them involved. </li>
+
+                </ul>
+
+
+            </article>
+
+        </section>
+
+        <section id="honors">
+
+            <h2>Honors</h2>
+
+            <article>
+
+                <ul>
+
+                    <li>Dean's List:3.5+ GPA</li>
+
+                </ul>
+
+
+            </article>
+
+        </section>
+
+    </main>
+
+
+
+</body>
+
+
+
+</html>
+
